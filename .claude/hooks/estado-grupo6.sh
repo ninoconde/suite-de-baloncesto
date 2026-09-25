@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# SessionStart: resume el estado del Grupo 6 Junior Bronce Femenino
+# SessionStart: resume el estado del Grupo 6 Junior Femenino Especial Bronce
 # (próxima jornada y datos pendientes) para que Claude lo tenga en contexto.
 
 DIR="${CLAUDE_PROJECT_DIR:-.}/datos/junior-bronce-femenino-g6"
@@ -8,7 +8,7 @@ EQ="$DIR/equipo.md"
 
 [ -f "$CAL" ] || exit 0
 
-echo "## Estado del Grupo 6 Junior Bronce Femenino"
+echo "## Estado del Grupo 6 Junior Femenino Especial Bronce"
 
 # Próxima jornada: primera fila del calendario con equipos y sin resultado.
 # Columnas: | Jornada | Fecha | Local | Visitante | Resultado | Notas |

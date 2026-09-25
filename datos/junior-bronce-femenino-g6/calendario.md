@@ -1,4 +1,4 @@
-# Calendario — Grupo 6 Junior Bronce Femenino
+# Calendario — Grupo 6 Junior Femenino Especial Bronce
 
 | Jornada | Fecha | Local | Visitante | Resultado | Notas |
 |---|---|---|---|---|---|

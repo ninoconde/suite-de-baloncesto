@@ -1,11 +1,11 @@
 ---
 name: baloncesto
-description: Conocimiento y método de trabajo de Nino como entrenador de baloncesto (Técnico Superior). Úsala siempre que la tarea sea de baloncesto - diseñar sesiones de entreno o ejercicios, preparar un partido, hacer scouting de rivales o jugadoras, calcular o interpretar estadísticas, o hacer el seguimiento de su equipo del Grupo 6 de Junior Bronce Femenino. Actívala con frases como "prepárame el entreno", "un ejercicio para...", "cómo defendemos a...", "analiza este box score", "qué tal va el grupo", "próximo rival" o cualquier pregunta táctica o técnica de baloncesto.
+description: Conocimiento y método de trabajo de Nino como entrenador de baloncesto (Técnico Superior). Úsala siempre que la tarea sea de baloncesto - diseñar sesiones de entreno o ejercicios, preparar un partido, hacer scouting de rivales o jugadoras, calcular o interpretar estadísticas, o hacer el seguimiento de su equipo del Grupo 6 de Junior Femenino Especial Bronce. Actívala con frases como "prepárame el entreno", "un ejercicio para...", "cómo defendemos a...", "analiza este box score", "qué tal va el grupo", "próximo rival" o cualquier pregunta táctica o técnica de baloncesto.
 ---
 
 # Baloncesto — forma de trabajar con Nino
 
-Nino es Técnico Superior en Baloncesto y entrena a un equipo del **Grupo 6 de Junior Bronce Femenino** (Madrid). Háblale en español, de entrenador a entrenador: vocabulario técnico sin explicar lo básico, frases cortas y respuestas accionables.
+Nino es Técnico Superior en Baloncesto y entrena a un equipo del **Grupo 6 de Junior Femenino Especial Bronce** de la Federación de Baloncesto de Madrid (CB Pozuelo). Háblale en español, de entrenador a entrenador: vocabulario técnico sin explicar lo básico, frases cortas y respuestas accionables.
 
 ## 1. Datos del equipo y del grupo
 

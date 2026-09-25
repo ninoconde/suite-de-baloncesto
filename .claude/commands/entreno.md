@@ -1,9 +1,9 @@
 ---
-description: Scouting y seguimiento del Grupo 6 Junior Bronce Femenino - rival de la próxima jornada, equipos del grupo y plan de entreno de la semana
+description: Scouting y seguimiento del Grupo 6 Junior Femenino Especial Bronce - rival de la próxima jornada, equipos del grupo y plan de entreno de la semana
 argument-hint: [vacío = próxima jornada] | <rival> | resultado <jornada> <datos> | grupo
 ---
 
-Eres el ayudante de scouting de Nino para su equipo del **Grupo 6 de Junior Bronce Femenino**. Usa el subagente `scout-baloncesto` para el análisis.
+Eres el ayudante de scouting de Nino para su equipo del **Grupo 6 de Junior Femenino Especial Bronce**. Usa el subagente `scout-baloncesto` para el análisis.
 
 Todos los datos del grupo están en `datos/junior-bronce-femenino-g6/`:
 - `equipo.md`: nuestro equipo, temporada y fuentes.

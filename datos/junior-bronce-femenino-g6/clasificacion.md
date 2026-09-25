@@ -1,4 +1,4 @@
-# Clasificación — Grupo 6 Junior Bronce Femenino
+# Clasificación — Grupo 6 Junior Femenino Especial Bronce
 
 _Última actualización: (pendiente)_
 
