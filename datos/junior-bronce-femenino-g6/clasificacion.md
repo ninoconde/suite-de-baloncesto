@@ -1,4 +1,4 @@
-# Clasificación — Grupo 6 Junior Femenino Especial Bronce
+# Clasificación — Grupo 6 Junior Femenino Especial Bronce (temporada 2026-27)
 
 _Última actualización: (pendiente)_
 
