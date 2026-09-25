@@ -1,6 +1,6 @@
 # Nuestro equipo
 
-- **Equipo:** _(pendiente — nombre del club/equipo)_
+- **Equipo:** CB Pozuelo
 - **Competición:** Junior Bronce Femenino — Grupo 6
 - **Temporada:** 2026-27
 - **Entrenador:** Nino
