@@ -4,7 +4,7 @@
 - **Competición:** Junior Femenino Especial Bronce — Grupo 6
 - **Temporada:** 2026-27
 - **Entrenador:** Nino
-- **Fuente de resultados y calendario:** _(pendiente — enlace de la federación)_
+- **Fuente de resultados y calendario:** https://www.fbm.es/resultados-club-6390/baloncesto-pozuelo (página de resultados del club en la FBM)
 
 ## Plantilla
 
