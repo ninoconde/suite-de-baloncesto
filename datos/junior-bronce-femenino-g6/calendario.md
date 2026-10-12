@@ -7,4 +7,4 @@ Fuente: app Afición FBM, "Próximos partidos" (captura del 26/09/2026). Los nú
 |---|---|---|---|---|---|
 | 1 | Dom 27/09/2026 13:00 | CB Pozuelo | Saltium Alcorcón Basket "B" | | En casa. El Torreón, pabellón. Nº de jornada por confirmar |
 | 2 | Dom 04/10/2026 10:45 | Tres Cantos B | CB Pozuelo | | Fuera. La Luz, pabellón pista 3. Nº de jornada por confirmar |
-| ? | Sáb 17/10/2026 11:30 | Uros A | CB Pozuelo | | Fuera. Pabellón Los Almendros (Rivas-Vaciamadrid). Nº de jornada por confirmar |
+| 4 | Sáb 17/10/2026 11:30 | Uros de Rivas "A" | CB Pozuelo | | Fuera. Los Almendros, pabellón (Rivas-Vaciamadrid). Jornada confirmada en la app FBM (captura del 12/10/2026) |

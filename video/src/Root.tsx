@@ -4,8 +4,8 @@ import { Partido, PartidoProps } from "./Partido";
 // Datos del próximo partido: cámbialos aquí o desde el Studio.
 const proximoPartido: PartidoProps = {
   competicion: "Junior Femenino Especial Bronce · Grupo 6",
-  jornada: "Próximo partido",
-  local: "Uros A",
+  jornada: "Jornada 4",
+  local: "Uros de Rivas \"A\"",
   visitante: "CB Pozuelo",
   fecha: "Sábado 17/10/2026",
   hora: "11:30",
