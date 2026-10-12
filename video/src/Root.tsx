@@ -4,12 +4,12 @@ import { Partido, PartidoProps } from "./Partido";
 // Datos del próximo partido: cámbialos aquí o desde el Studio.
 const proximoPartido: PartidoProps = {
   competicion: "Junior Femenino Especial Bronce · Grupo 6",
-  jornada: "Jornada 1",
-  local: "CB Pozuelo",
-  visitante: "Saltium Alcorcón Basket \"B\"",
-  fecha: "Domingo 27/09/2026",
-  hora: "13:00",
-  pabellon: "Pabellón El Torreón",
+  jornada: "Próximo partido",
+  local: "Uros A",
+  visitante: "CB Pozuelo",
+  fecha: "Sábado 17/10/2026",
+  hora: "11:30",
+  pabellon: "Pabellón Los Almendros · Rivas-Vaciamadrid",
 };
 
 export const RemotionRoot: React.FC = () => {
