@@ -16,13 +16,13 @@ proxima=$(awk -F'|' '
   /^\|/ {
     for (i = 2; i <= 6; i++) gsub(/^[ \t]+|[ \t]+$/, "", $i)
     if ($2 !~ /^[0-9]+$/) next
-    if ($4 != "" && $5 != "" && $6 == "") {
+    if ($4 != "" && $5 != "" && $6 == "" && ($4 ~ /Pozuelo/ || $5 ~ /Pozuelo/)) {
       printf "Jornada %s (%s): %s vs %s\n", $2, ($3 == "" ? "fecha sin apuntar" : $3), $4, $5
       exit
     }
   }' "$CAL")
 
-jugadas=$(awk -F'|' '/^\|/ { gsub(/^[ \t]+|[ \t]+$/, "", $2); gsub(/^[ \t]+|[ \t]+$/, "", $6); if ($2 ~ /^[0-9]+$/ && $6 != "") n++ } END { print n + 0 }' "$CAL")
+jugadas=$(awk -F'|' '/^\|/ { for (i = 2; i <= 6; i++) gsub(/^[ \t]+|[ \t]+$/, "", $i); if ($2 ~ /^[0-9]+$/ && $6 != "" && ($4 ~ /Pozuelo/ || $5 ~ /Pozuelo/)) n++ } END { print n + 0 }' "$CAL")
 
 if [ -n "$proxima" ]; then
   echo "- Próxima jornada: $proxima"
