@@ -8,10 +8,12 @@
 
 ## Entrenamientos
 
-- **Jugadoras habituales:** 9-10
+- **Jugadoras:** 10 en plantilla (9-10 por sesión). Suben cadetes para completar entrenos y partidos.
 - **Días:** martes, jueves, viernes y sábado
 - **Duración:** ~90 min de pista por sesión + 1 h de físico cada día de entreno (≈ 10 h semanales en total)
-- **Partidos:** normalmente domingo → el sábado es el día previo al partido (sesión corta, específica y de baja carga)
+- **Partidos:** normalmente domingo; a veces sábado o viernes.
+  - Partido en domingo → el sábado es la sesión previa (corta, específica, baja carga).
+  - Partido en sábado o viernes → el entreno de la víspera pasa a ser la sesión previa y, si se juega en día de entreno, ese entreno no se hace o es de recuperación.
 
 ## Plantilla
 
