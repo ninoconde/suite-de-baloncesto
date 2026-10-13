@@ -101,8 +101,9 @@ export const Partido: React.FC<PartidoProps> = (props) => {
           opacity: datos,
           transform: `translateY(${(1 - datos) * 40}px)`,
           textAlign: "center",
-          fontSize: 48,
+          fontSize: 44,
           lineHeight: 1.5,
+          padding: "0 60px",
         }}
       >
         <div style={{ fontWeight: 700 }}>

@@ -1,5 +1,5 @@
 # Hoja de banquillo — CB Pozuelo vs Saltium Alcorcón Basket "B"
-Domingo 27/09/2026, 13:00 · El Torreón · Jornada 1
+Domingo 27/09/2026, 13:00 · El Torreón · Jornada 2
 
 ## Acta y previa
 - [ ] Jugadoras convocadas: ___ / Dorsales: ___
