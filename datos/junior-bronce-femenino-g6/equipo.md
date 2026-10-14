@@ -26,4 +26,4 @@
 - **Ataque:**
 - **Defensa:**
 - **Puntos fuertes:**
-- **A mejorar:**
+- **A mejorar:** faltas: cometemos 20-25 por partido (dato del cuerpo técnico, 13/10/2026), sobre todo manotazos y faltas en close-out.
