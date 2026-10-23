@@ -10,7 +10,7 @@ Fuente: app Afición FBM (capturas del 12/10/2026). Jornadas 1-3 asignadas por f
 | 1 | Dom 20/09/2026 20:00 | Movistar Estudiantes "B" | CB Pozuelo | 111-11 | Fuera. La Caja Mágica, Indoor Norte. Parciales 25-0, 27-8, 30-1, 29-2. Derrota |
 | 2 | Dom 27/09/2026 13:00 | CB Pozuelo | Saltium Alcorcón Basket "B" | 39-58 | En casa. El Torreón, pabellón. Parciales 11-14, 13-9, 5-17, 10-18. Derrota |
 | 3 | Dom 04/10/2026 10:45 | Tres Cantos B | CB Pozuelo | 32-78 | Fuera. La Luz, pabellón pista 3. Parciales 9-21, 9-23, 8-21, 6-13. Victoria |
-| 4 | Sáb 17/10/2026 11:30 | Uros de Rivas "A" | CB Pozuelo | | Fuera. Los Almendros, pabellón (Rivas-Vaciamadrid) |
+| 4 | Sáb 17/10/2026 11:30 | Uros de Rivas "A" | CB Pozuelo | 62-65 | Fuera. Los Almendros. Parciales 10-16, 16-22, 17-12, 19-15. Victoria (26-38 al descanso; 51-61 a 5' del final) |
 
 ## Resto del grupo
 
