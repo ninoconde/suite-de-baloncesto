@@ -45,13 +45,13 @@
 |---|---|---|---|---|
 | 41 | Capitana (nombre oculto en el acta) | Tiradora, muchos minutos | J1: 12 pts en 33' (2 triples, 2/2 TL). J2 (como "CAP"): 13 pts, 2 triples. J3: 4 pts | Negarle el triple: cierre largo, mano arriba, que bote hacia dentro. Sin ayudas desde su lado |
 | 77 | Roldán de la Portilla, Carlota | Titular, 30' de media en J1 y J3 | 0 / 12 (en 13') / 6 pts; 1 triple en J2 y J3; 2-3 faltas por partido | Igual que la 41 en el tiro; atacarla en defensa para cargarla de faltas |
-| 14 | Herrero Bueno, Sara | **Tiradora** y anotadora interior | J1: 0 pts en 26'. J2: 16 pts (5 de 2, 1 triple, 3/6 TL), mejor valoración. No jugó J3 | Negar recepción en la pintura; si recibe, ayuda desde el lado débil |
+| 14 | #14 | **Tiradora** y anotadora interior | J1: 0 pts en 26'. J2: 16 pts (5 de 2, 1 triple, 3/6 TL), mejor valoración. No jugó J3 | Negar recepción en la pintura; si recibe, ayuda desde el lado débil |
 | 3 | Nombre oculto | Titular | J1: 12 pts en 31' (4 de 2, 1 triple), 4 faltas | Atacarla: viene cargada de faltas |
-| 8 | Santos Guerrero, Daniela | Interior | J1: 10 pts (5 de 2) en 21', 5 faltas (eliminada) | Fondear y atacarla al poste: comete muchas faltas |
-| 85 | Oreiro Barceló, Sara | Rotación larga (21-29') | 3 / 8 / 3 pts; 0/3 TL en J2 | Poco peligro anotador; si se le puede ayudar, de ella |
-| 11 o 24 | Del Valle López, Elisa | Titular en J2 y J3 | 6 y 3 pts (1 triple en J3) | Seguimiento normal |
-| 13 | Delgado Oliver, María | **Jugadora del B que también juega con el A** | Con el A: 10 pts en 15' en J2 (**3/3 triples**). Con el B contra el A: 15 pts (2 triples, 7/9 TL) | La más peligrosa si viene: negarle el triple en todo momento, defensora encima siempre |
-| 12 | Camacho Jiménez, Valeria | **Jugadora del B que también juega con el A** | Con el A en J3: 6 pts. Con el B contra el A: 15 pts (capitana, 5/12 TL) | Ataca el aro y busca la falta: verticalidad, no meter la mano |
+| 8 | #8 | Interior | J1: 10 pts (5 de 2) en 21', 5 faltas (eliminada) | Fondear y atacarla al poste: comete muchas faltas |
+| 85 | #85 | Rotación larga (21-29') | 3 / 8 / 3 pts; 0/3 TL en J2 | Poco peligro anotador; si se le puede ayudar, de ella |
+| 11 o 24 | #11 o #24 | Titular en J2 y J3 | 6 y 3 pts (1 triple en J3) | Seguimiento normal |
+| 13 | #13 | **Jugadora del B que también juega con el A** | Con el A: 10 pts en 15' en J2 (**3/3 triples**). Con el B contra el A: 15 pts (2 triples, 7/9 TL) | La más peligrosa si viene: negarle el triple en todo momento, defensora encima siempre |
+| 12 | #12 | **Jugadora del B que también juega con el A** | Con el A en J3: 6 pts. Con el B contra el A: 15 pts (capitana, 5/12 TL) | Ataca el aro y busca la falta: verticalidad, no meter la mano |
 
 **Ojo con la 13 y la 12 [Suposición]:** el sábado el B juega a las 9:30 en Alcorcón y el A contra nosotras a las 11:30 en Rivas. Puede que no estén, pero hay que prepararse como si vinieran.
 
@@ -80,6 +80,6 @@
 | Fecha | Jornada | Rival | Resultado | Lo que hemos visto |
 |---|---|---|---|---|
 | 19/09/2026 | 1 | Uros de Rivas "B" | 48-51 (D) | +14 en el 3º cuarto; pierden en la línea (3/8 TL contra 18/31 de B) y con 18 faltas |
-| 26/09/2026 | 2 | Tres Cantos B | 83-14 (V) | 7 triples; Herrero (14) 16 pts; Delgado (13, del B) 3 triples |
-| 03/10/2026 | 3 | Movistar Estudiantes "B" | 24-100 (D) | Juegan Camacho (12) y Delgado (13), del B; 2/10 TL |
-| 17/10/2026 | 4 | **CB Pozuelo** | 62-65 (D) | Les ganamos fuera. Parciales 10-16, 16-22, 17-12, 19-15. Con 51-61 a 4:41 del final nos hicieron un 11-2 (triples de Herrero #14 x2 y Del Valle #11) y fallaron TL al final. Juegan también Cuesta (19), García Roldán (15) y Delgado (13) |
+| 26/09/2026 | 2 | Tres Cantos B | 83-14 (V) | 7 triples; #14 16 pts; #13 (del B) 3 triples |
+| 03/10/2026 | 3 | Movistar Estudiantes "B" | 24-100 (D) | Juegan #12 y #13, del B; 2/10 TL |
+| 17/10/2026 | 4 | **CB Pozuelo** | 62-65 (D) | Les ganamos fuera. Parciales 10-16, 16-22, 17-12, 19-15. Con 51-61 a 4:41 del final nos hicieron un 11-2 (triples de #14 x2 y #11) y fallaron TL al final. Juegan también #19, #15 y #13 |

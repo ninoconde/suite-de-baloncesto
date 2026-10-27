@@ -2,7 +2,7 @@
 
 **Objetivo:** llegar al domingo con las 3 ideas claras y frescas: ayudas cerradas contra la penetración de la 12, cierre largo sin falta contra la 13 y rutina de tiros libres. Sin contacto fuerte. El sábado es siempre una sesión relajada; mañana hay partido.
 
-**Base:** ficha `rivales/uros-de-rivas-b.md` (36 TL intentados por partido; 12 Camacho penetradora, 13 Delgado tiradora).
+**Base:** ficha `rivales/uros-de-rivas-b.md` (36 TL intentados por partido; #12 penetradora, #13 tiradora).
 
 | Bloque | Tiempo | Ejercicio | Objetivo |
 |---|---|---|---|

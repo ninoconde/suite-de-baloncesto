@@ -1,12 +1,12 @@
 # Clasificación — Grupo 6 Junior Femenino Especial Bronce (temporada 2026-27)
 
-_Última actualización: 23/10/2026, tras la jornada 4 (todas las jornadas completas). Calculada a partir de los resultados de `calendario.md`; ordenada por porcentaje de victorias y, a igualdad, por diferencia de puntos (no es el desempate oficial). Comprobado con la app FBM: CB Pozuelo PJ 4, PG 2, 48,2 PF y 65,8 PC por partido._
+_Última actualización: 27/10/2026, tras la jornada 5 (falta Tres Cantos B - Movistar Estudiantes "B", del 27/10). Fuente: clasificación oficial de fbm.es/es/horarios-y-resultados (grabación de pantalla del 27/10/2026). Puntos FBM: victoria 2, derrota 1. Cuadra con los resultados de `calendario.md`._
 
-| Pos | Equipo | PJ | PG | PP | PF | PC | Dif |
-|---|---|---|---|---|---|---|---|
-| 1 | Movistar Estudiantes "B" | 4 | 4 | 0 | 430 | 104 | +326 |
-| 2 | Saltium Alcorcón Basket "B" | 4 | 3 | 1 | 263 | 265 | −2 |
-| 3 | Uros de Rivas "B" | 4 | 2 | 2 | 241 | 265 | −24 |
-| 4 | CB Pozuelo | 4 | 2 | 2 | 193 | 263 | −70 |
-| 5 | Uros de Rivas "A" | 4 | 1 | 3 | 217 | 230 | −13 |
-| 6 | Tres Cantos B | 4 | 0 | 4 | 125 | 342 | −217 |
+| Pos | Equipo | PJ | PG | PP | PF | PC | Dif | Puntos |
+|---|---|---|---|---|---|---|---|---|
+| 1 | Saltium Alcorcón Basket "B" | 5 | 4 | 1 | 330 | 322 | +8 | 9 |
+| 2 | Movistar Estudiantes "B" | 4 | 4 | 0 | 430 | 104 | +326 | 8 |
+| 3 | CB Pozuelo | 5 | 3 | 2 | 258 | 316 | −58 | 8 |
+| 4 | Uros de Rivas "B" | 5 | 2 | 3 | 294 | 330 | −36 | 7 |
+| 5 | Uros de Rivas "A" | 5 | 1 | 4 | 274 | 297 | −23 | 6 |
+| 6 | Tres Cantos B | 4 | 0 | 4 | 125 | 342 | −217 | 4 |
