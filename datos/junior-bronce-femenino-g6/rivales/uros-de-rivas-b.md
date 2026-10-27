@@ -2,8 +2,8 @@
 
 - **Club / pabellón:** Uros de Rivas C.D.E. — pabellón Los Almendros (Rivas-Vaciamadrid). Comparte pabellón y jugadoras con Uros de Rivas "A".
 - **Entrenador:** De Dios Muñoz, Sergio
-- **Balance:** 2-2 tras la jornada 4 (PF 241, PC 265, dif. −24)
-- **Próximo partido contra nosotros:** Jornada 5, dom 25/10/2026 16:00, en casa (UFV)
+- **Balance:** 2-3 tras la jornada 5 (PF 294, PC 330, dif. −36; 4º con 7 puntos)
+- **Último partido contra nosotras:** Jornada 5, dom 25/10/2026, en el Pabellón UFV: **CB Pozuelo 65-53** (V)
 
 > Fuente: resultados y actas de estadísticas FBM de J1 (vs Uros A), J3 (vs Alcorcón B) y J4 (vs Tres Cantos B). Las estadísticas FBM de esta categoría solo registran canastas anotadas (no intentos de campo) ni rebotes, asistencias o pérdidas.
 
@@ -15,6 +15,7 @@
 | 2 | Movistar Estudiantes "B" (casa) | 38-109 (D) | Sin respuesta ante el líder |
 | 3 | Saltium Alcorcón Basket "B" (fuera, 17/10) | 75-70 (D) | Partido igualado; 17/26 TL |
 | 4 | Tres Cantos B (casa) | 82-33 (V) | 23/50 TL: 50 tiros libres en un partido |
+| 5 | CB Pozuelo (fuera, UFV) | 53-65 (D) | Solo marcador (fbm.es, 27/10) |
 
 **Rivales comunes con nosotras:**
 
@@ -25,7 +26,9 @@
 | Tres Cantos B | +49 | +46 |
 | Estudiantes B | −71 | −100 |
 
-**Inferencia:** son un poco mejores que nosotras (sobre todo por el resultado ante Alcorcón), pero del mismo nivel. Partido igualado, en casa.
+**Inferencia (previa a la J5):** son un poco mejores que nosotras (sobre todo por el resultado ante Alcorcón), pero del mismo nivel. Partido igualado, en casa.
+
+**Resultado [Dato]:** ganamos de 12 (65-53). Les dejamos en 53 puntos, por debajo de su media previa (60,3 en 4 partidos).
 
 ## Números del equipo (3 actas: J1, J3, J4)
 
@@ -72,3 +75,4 @@
 | 27/09/2026 | 2 | Movistar Estudiantes "B" | 38-109 (D) | Solo marcador |
 | 17/10/2026 | 3 | Saltium Alcorcón Basket "B" | 70-75 (D) | Delgado 3 triples; Camacho 10 pts |
 | 18/10/2026 | 4 | Tres Cantos B | 82-33 (V) | 50 tiros libres intentados; Camacho 19 pts |
+| 25/10/2026 | 5 | CB Pozuelo | 53-65 (D) | Solo marcador (fbm.es). Pendiente: acta y notas del partido |
