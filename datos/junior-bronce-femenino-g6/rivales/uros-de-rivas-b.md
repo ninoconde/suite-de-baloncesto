@@ -42,28 +42,28 @@
 
 - **Dato:** **36 tiros libres intentados por partido.** Es su arma principal: el 29 % de sus puntos viene de la línea. Atacan el aro y buscan el contacto.
 - **Dato:** los tiran a un 54 %: mandarlas a la línea no es lo peor, pero con 36 intentos son ~19 puntos por partido y cargan de faltas al rival.
-- **Dato:** más triples que Uros A (5,7 por partido), repartidos entre Delgado, García Roldán y Valentín Buelvas.
+- **Dato:** más triples que Uros A (5,7 por partido), repartidos entre #13, #15 y #11.
 - **Dato:** hacen pocas faltas (14,7) frente a nuestras 20-25.
 
 ## Jugadoras clave
 
 | Dorsal | Nombre | Rol | Datos (J1 / J3 / J4) | Cómo defenderla |
 |---|---|---|---|---|
-| 12 | Camacho Jiménez, Valeria | **Capitana, la que más anota (14,7)** | 15 / 10 / 19 pts; 16 canastas de 2, 0 triples; TL 12/25 (48 %) | Penetradora pura: ayuda en la pintura, verticalidad, nada de manos. Que tire de fuera |
-| 13 | Delgado Oliver, María | **Tiradora, la más fiable** | 15 / 15 / 8 pts; **7 triples**; TL 11/15 (73 %) | Negarle la recepción y el triple. Cierre largo sin falta: mete los libres |
-| 15 | García Roldán, Sonia | Tiradora | 1 / 13 / 6 pts; 3 triples | Cierre largo |
-| 11 | Valentín Buelvas, Martina | Tiradora, muchos minutos | 3 / 0 / 15 pts; 3 triples | Cierre largo |
-| 10 | Pérez Espinosa, Sofía | Anotadora en racha | 2 / 3 / 17 pts (6/8 TL en J4) | Seguimiento normal |
-| 9 | Flores Moragon, Daniela | Rotación | 2 / 7 / 9 pts | — |
-| 44 | Díaz Vergara, Amaia | Titular en J4 | 7 / 0 / 2 pts; 2/10 TL en J4 | Si va a la línea, mal tiradora |
+| 12 | #12 | **Capitana, la que más anota (14,7)** | 15 / 10 / 19 pts; 16 canastas de 2, 0 triples; TL 12/25 (48 %) | Penetradora pura: ayuda en la pintura, verticalidad, nada de manos. Que tire de fuera |
+| 13 | #13 | **Tiradora, la más fiable** | 15 / 15 / 8 pts; **7 triples**; TL 11/15 (73 %) | Negarle la recepción y el triple. Cierre largo sin falta: mete los libres |
+| 15 | #15 | Tiradora | 1 / 13 / 6 pts; 3 triples | Cierre largo |
+| 11 | #11 | Tiradora, muchos minutos | 3 / 0 / 15 pts; 3 triples | Cierre largo |
+| 10 | #10 | Anotadora en racha | 2 / 3 / 17 pts (6/8 TL en J4) | Seguimiento normal |
+| 9 | #9 | Rotación | 2 / 7 / 9 pts | — |
+| 44 | #44 | Titular en J4 | 7 / 0 / 2 pts; 2/10 TL en J4 | Si va a la línea, mal tiradora |
 | — | Una jugadora con nombre oculto en el acta | Interior | J3: 12 pts (5 de 2) en 30' | — |
 
-**Ojo [Dato]:** Delgado (13) y García Roldán (15) jugaron el 17/10 con el B en Alcorcón a las 9:30 y con el A contra nosotras a las 11:30. Santos Guerrero (8), del A, jugó con el B en J3. El domingo pueden venir reforzadas con jugadoras del A.
+**Ojo [Dato]:** #13 y #15 jugaron el 17/10 con el B en Alcorcón a las 9:30 y con el A contra nosotras a las 11:30. #8, del A, jugó con el B en J3. El domingo pueden venir reforzadas con jugadoras del A.
 
 ## Claves para la J5
 
 1. **Defender sin falta [Dato]:** su mayor virtud (36 TL por partido) contra nuestro mayor defecto (20-25 faltas). Si no cambiamos eso, perdemos en la línea y con jugadoras eliminadas.
-2. **Camacho (12) dentro, Delgado (13) fuera:** ayudas cerradas en la pintura contra Camacho y cierre largo sin falta contra Delgado.
+2. **#12 dentro, #13 fuera:** ayudas cerradas en la pintura contra #12 y cierre largo sin falta contra #13.
 3. **Último cuarto:** remontaron 24-12 a Uros A en el 4º cuarto; nosotras perdimos la 2ª parte en J2 y J4. Llegar con piernas.
 4. **Nuestros tiros libres:** 1 de 7 en los últimos 15 minutos de J4. En un partido igualado, decide.
 
@@ -73,6 +73,6 @@
 |---|---|---|---|---|
 | 19/09/2026 | 1 | Uros de Rivas "A" | 51-48 (V) | Remontada en el 4º cuarto (24-12) desde la línea |
 | 27/09/2026 | 2 | Movistar Estudiantes "B" | 38-109 (D) | Solo marcador |
-| 17/10/2026 | 3 | Saltium Alcorcón Basket "B" | 70-75 (D) | Delgado 3 triples; Camacho 10 pts |
-| 18/10/2026 | 4 | Tres Cantos B | 82-33 (V) | 50 tiros libres intentados; Camacho 19 pts |
+| 17/10/2026 | 3 | Saltium Alcorcón Basket "B" | 70-75 (D) | #13 3 triples; #12 10 pts |
+| 18/10/2026 | 4 | Tres Cantos B | 82-33 (V) | 50 tiros libres intentados; #12 19 pts |
 | 25/10/2026 | 5 | CB Pozuelo | 53-65 (D) | Solo marcador (fbm.es). Pendiente: acta y notas del partido |

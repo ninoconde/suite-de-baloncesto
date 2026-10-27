@@ -5,22 +5,22 @@ Domingo 25/10/2026, 16:00 · Pabellón UFV · Jornada 5 · En casa
 
 ## Las 4 claves (charla previa)
 1. **Defender sin falta.** Tiran 36 tiros libres por partido; nosotras hacemos 20-25 faltas. "Pecho antes que manos".
-2. **La 12 (Camacho) dentro:** ayuda cerrada en la pintura cada vez que ataca el aro. Que tire de fuera.
-3. **La 13 (Delgado) fuera:** cierre largo sin falta; mete el 73 % de los libres.
+2. **La 12 dentro:** ayuda cerrada en la pintura cada vez que ataca el aro. Que tire de fuera.
+3. **La 13 fuera:** cierre largo sin falta; mete el 73 % de los libres.
 4. **Llegar con piernas al 4º cuarto** y las 3 primeras posesiones del 3º, con el set. Remontaron 24-12 a Uros A en un último cuarto.
 
 ## Su equipo
 | Dorsal | Jugadora | Ojo con | Quién la defiende |
 |---|---|---|---|
-| 12 | Camacho (capitana) | 14,7 pts, todo de 2: penetra y busca la falta (48 % TL) | ___ + ayuda cerrada |
-| 13 | Delgado | 7 triples en 3 partidos, 73 % TL | ___ (exterior) |
-| 15 | García Roldán | 3 triples | ___ (exterior) |
-| 11 | Valentín | 3 triples, muchos minutos | ___ |
-| 10 | Pérez Espinosa | 17 pts en J4 | ___ |
-| 9 | Flores | Rotación | — |
-| 44 | Díaz Vergara | Mal TL (2/10 en J4) | — |
+| 12 | #12 (capitana) | 14,7 pts, todo de 2: penetra y busca la falta (48 % TL) | ___ + ayuda cerrada |
+| 13 | #13 | 7 triples en 3 partidos, 73 % TL | ___ (exterior) |
+| 15 | #15 | 3 triples | ___ (exterior) |
+| 11 | #11 | 3 triples, muchos minutos | ___ |
+| 10 | #10 | 17 pts en J4 | ___ |
+| 9 | #9 | Rotación | — |
+| 44 | #44 | Mal TL (2/10 en J4) | — |
 
-- [ ] ¿Vienen jugadoras del A (Santos 8, Herrero 14, Del Valle 11)? ___
+- [ ] ¿Vienen jugadoras del A (#8, #14, #11)? ___
 - [ ] Entrenador: De Dios Muñoz, Sergio
 
 ## Su defensa (leer en los primeros 5')

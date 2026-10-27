@@ -14,11 +14,11 @@ Sábado 17/10/2026, 11:30 · Los Almendros (Rivas-Vaciamadrid) · Jornada 4 · F
 |---|---|---|---|
 | 41 | Capitana | Triple (4 en 3 partidos), muchos minutos | ___ |
 | 77 | Roldán | Triple; 2-3 faltas por partido | ___ |
-| 14 | Herrero | 16 pts ante Tres Cantos, dentro y fuera | ___ |
+| 14 | #14 | 16 pts ante Tres Cantos, dentro y fuera | ___ |
 | 3 | (nombre oculto) | 12 pts en J1, 4 faltas: atacarla | ___ |
-| 8 | Santos | Interior, eliminada en J1: atacarla al poste | ___ |
-| 13 | Delgado (del B) | **La más peligrosa si viene**: 3/3 triples ante Tres Cantos | ___ |
-| 12 | Camacho (del B) | Ataca el aro y busca la falta | ___ |
+| 8 | #8 | Interior, eliminada en J1: atacarla al poste | ___ |
+| 13 | #13 (del B) | **La más peligrosa si viene**: 3/3 triples ante Tres Cantos | ___ |
+| 12 | #12 (del B) | Ataca el aro y busca la falta | ___ |
 
 - [ ] ¿Vienen la 13 y la 12? (el B juega a las 9:30 en Alcorcón) ___
 - [ ] Entrenador: González Martínez, Sergio
