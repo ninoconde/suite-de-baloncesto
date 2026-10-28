@@ -1,7 +1,7 @@
 # Calendario — Grupo 6 Junior Femenino Especial Bronce (temporada 2026-27)
 
 Nombre oficial en la app de la FBM: *Junior Femenino LIGA AHORRAMAS - PLATA/BRONCE* (fase Primera Bronce, Grupo 6).
-Fuente: app Afición FBM (capturas del 12/10/2026 y 23/10/2026) y web fbm.es/es/horarios-y-resultados (grabación de pantalla del 27/10/2026). Jornadas 1-3 asignadas por fecha; la jornada 4 aparece con su número en la app.
+Fuente: app Afición FBM (capturas del 12/10/2026 y 23/10/2026) y web fbm.es (grabación de pantalla del 27/10/2026 y página del club leída el 28/10/2026). Jornadas 1-3 asignadas por fecha; la jornada 4 aparece con su número en la app.
 
 ## Nuestros partidos (CB Pozuelo)
 
@@ -12,6 +12,7 @@ Fuente: app Afición FBM (capturas del 12/10/2026 y 23/10/2026) y web fbm.es/es/
 | 3 | Dom 04/10/2026 10:45 | Tres Cantos B | CB Pozuelo | 32-78 | Fuera. La Luz, pabellón pista 3. Parciales 9-21, 9-23, 8-21, 6-13. Victoria |
 | 4 | Sáb 17/10/2026 11:30 | Uros de Rivas "A" | CB Pozuelo | 62-65 | Fuera. Los Almendros. Parciales 10-16, 16-22, 17-12, 19-15. Victoria (26-38 al descanso; 51-61 a 5' del final) |
 | 5 | Dom 25/10/2026 16:00 | CB Pozuelo | Uros de Rivas "B" | 65-53 | En casa. Pabellón UFV (Universidad Francisco de Vitoria). Victoria. Jornada confirmada en fbm.es |
+| 6 | Dom 08/11/2026 10:30 | CB Pozuelo | Movistar Estudiantes "B" | | En casa. Pabellón UFV (Universidad Francisco de Vitoria). Fuente: fbm.es, próximos partidos del club (28/10) |
 
 ## Resto del grupo
 
@@ -26,4 +27,4 @@ Fuente: app Afición FBM (capturas del 12/10/2026 y 23/10/2026) y web fbm.es/es/
 | 4 | Dom 18/10/2026 13:30 | Uros de Rivas "B" | Tres Cantos B | 82-33 | Los Almendros. Parciales 17-7, 23-9, 22-6, 20-11 |
 | 4 | Dom 18/10/2026 20:30 | Movistar Estudiantes "B" | Saltium Alcorcón Basket "B" | 110-31 | La Caja Mágica. Parciales 26-6, 26-15, 25-6, 33-4 |
 | 5 | Sáb 24/10/2026 | Saltium Alcorcón Basket "B" | Uros de Rivas "A" | 67-57 | |
-| 5 | Mar 27/10/2026 | Tres Cantos B | Movistar Estudiantes "B" | | Pendiente (sin resultado el 27/10) |
+| 5 | Mar 27/10/2026 | Tres Cantos B | Movistar Estudiantes "B" | 23-114 | Marcador deducido de la clasificación oficial del 28/10 (PF/PC) |
